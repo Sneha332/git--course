@@ -1,0 +1,63 @@
+[
+    {
+      "courseId": "C101",
+      "title": "Introduction to Web Development",
+      "instructor": "John Doe",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "category": "Web Development",
+      "price": "$50",
+      "enrolled": "2500"
+    },
+    {
+      "courseId": "C102",
+      "title": "Data Science Basics",
+      "instructor": "Jane Smith",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "category": "Data Science",
+      "price": "$60",
+      "enrolled": "3200"
+    },
+    {
+      "courseId": "C103",
+      "title": "Digital Marketing Masterclass",
+      "instructor": "Robert Brown",
+      "duration": "8 hours",
+      "rating": 4.3,
+      "category": "Marketing",
+      "price": "$45",
+      "enrolled": "1500"
+    },
+    {
+      "courseId": "C104",
+      "title": "Python Programming for Beginners",
+      "instructor": "Emily Clark",
+      "duration": "12 hours",
+      "rating": 4.8,
+      "category": "Programming",
+      "price": "$55",
+      "enrolled": "4000"
+    },
+    {
+      "courseId": "C105",
+      "title": "Graphic Design Fundamentals",
+      "instructor": "Michael Lee",
+      "duration": "7 hours",
+      "rating": 4.4,
+      "category": "Design",
+      "price": "$40",
+      "enrolled": "1800"
+    },
+    {
+      "courseId": "C106",
+      "title": "Advanced Machine Learning",
+      "instructor": "Sarah White",
+      "duration": "20 hours",
+      "rating": 4.9,
+      "category": "Artificial Intelligence",
+      "price": "$100",
+      "enrolled": "2200"
+    }
+  ]
+  
